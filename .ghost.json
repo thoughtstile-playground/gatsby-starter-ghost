@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://54.174.169.195/ghost",
+    "apiUrl": "http://54.174.169.195",
     "contentApiKey": "39f00e9d5bf8613bdc16c91307"
   },
   "production": {
-    "apiUrl": "http://54.174.169.195/ghost",
+    "apiUrl": "http://54.174.169.195",
     "contentApiKey": "39f00e9d5bf8613bdc16c91307"
   }
 }
